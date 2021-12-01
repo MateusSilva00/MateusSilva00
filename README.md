@@ -1,10 +1,10 @@
-## Ola! Eu sou Mateus Silva
+## Hello! I'm Matthew Silva
 
-- 🌱 Atualmente, estou aprendendo Python com foco em Ciência de Dados
-- 🤔 Estou procurando ajuda com banco de dados não relacionais
-- 💬 Pergunte-me sobre heavy metal
-- 📫 Entre em contato comigo: mateus.2020@alunos.utfpr.edu.br
-- 😄 Pronomes: ele / ele
+- 🌱 I'm currently learning Python with a focus on Data Science
+- 🤔 I'm looking for help with non-relational databases
+- 💬 Ask me about heavy metal
+- 📫 Contact me: mateus.2020@alunos.utfpr.edu.br
+- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/MateusSilva00">
@@ -19,3 +19,4 @@
   <img height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
 </div>
 
+##
