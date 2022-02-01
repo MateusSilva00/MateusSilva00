@@ -2,9 +2,7 @@
 
 - 🌱 I'm currently learning Python with a focus on Data Science
 - 🤔 I'm looking for help with non-relational databases
-- 💬 Ask me about heavy metal
 - 📫 Contact me: mateus.2020@alunos.utfpr.edu.br
-- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/MateusSilva00">
