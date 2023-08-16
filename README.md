@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning Python with a focus on Data Science
 - 🤔 I'm looking for help with non-relational databases
 - 📫 Contact me: mateus.2020@alunos.utfpr.edu.br
-- If like webcrawlers, check my gists 
+- If you like webcrawlers, check my [gists](https://gist.github.com/MateusSilva00)
 
 <div align="center">
   <a href="https://github.com/MateusSilva00">
