@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently learning Python with a focus on Data Science
 - 🤔 I'm looking for help with non-relational databases
-- 📫 Contact me: mateus.2020@alunos.utfpr.edu.br
+- 📫 Contact me: mateus.sgrilli@gmail.com
 - If you like webcrawlers, check my [gists](https://gist.github.com/MateusSilva00)
 
 <div align="center">
@@ -16,6 +16,8 @@
   <img height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+          
 </div>
 
 ##
